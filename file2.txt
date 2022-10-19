@@ -1,2 +1,5 @@
 File2 has been added by main branch in working directory
+Main branch adding another line in file2 to demonstrate merge conflict.
+
+
 
