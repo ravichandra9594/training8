@@ -3,3 +3,10 @@ Bug fix branch adding a line of code in file1.txt
 Bug fix branch added another line.
 Bug fix branch adding third line.
 Main Branch adding a new line in line2
+
+______________________________________________________________________________________
+
+
+		Branch BUGFIX is adding this line to demonstrate git reset --soft
+
+________________________________________________________________________________________

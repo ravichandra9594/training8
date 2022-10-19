@@ -1,1 +1,7 @@
 File3 added by the main branch in working directory
+
+_____________________________________________________________________________________________________________
+
+	Bugfix branch adding a line in file3.txt to demonstate git reset --soft, --mixed and --hard
+
+______________________________________________________________________________________________________________
