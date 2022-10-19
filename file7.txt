@@ -1,0 +1,1 @@
+Added file7.txt by bugfix branch
