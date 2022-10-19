@@ -2,10 +2,3 @@ File2 has been added by main branch in working directory
 Bug fix branch adding a line in file2.txt
 Bug fix branch adding 2nd line in file2.txt
 Main branch adding another line in file2 to demonstrate merge conflict.
-
-_________________________________________________________________________
-
-		Testing git reset --soft by bugfix branch
-
-_________________________________________________________________________
-
