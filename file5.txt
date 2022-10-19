@@ -1,1 +1,3 @@
-Added a file5.txt at bug fix branch
+Adding a new line to create conflict while rebasing main branch
+
+Adding a new line at main branch
