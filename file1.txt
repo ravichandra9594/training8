@@ -11,3 +11,5 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________
 File1.txt added some changes in GitHub at main branch
+Feature_Dev_1 adding changes in file1.txt should conflict if merged with main branch, since main already worked in this line.
+Pull changes to create a merge conflict
