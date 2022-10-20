@@ -10,3 +10,4 @@ ________________________________________________________________________________
 		Branch BUGFIX is adding this line to demonstrate git reset --soft
 
 ________________________________________________________________________________________
+File1.txt added some changes in GitHub at main branch
