@@ -1,2 +1,6 @@
 Added a file 11 in bugfix branch
 
+__________________________________________________________________________________
+File added by bug-fix branch at GitHub
+To demonstrate the gitfetch
+_________________________________________________________________________________
